@@ -1,3 +1,15 @@
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #000;
+  max-width: 850px;
+  margin: 0 auto;
+  position: relative;
+}
 dl.graph:after{
   content:".";
   display: block;
