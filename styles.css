@@ -9,6 +9,7 @@ body {
   background-color: #222;
   max-width: 850px;
   margin: 0 auto;
+  padding-left: 10px;
   position: relative;
 }
 dl.graph:after{
