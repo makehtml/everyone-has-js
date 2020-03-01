@@ -64,3 +64,6 @@ dl.graph dd{
     dl.graph dd:last-child{
       border-style: none;
       }
+  dl.graph dd div + div{
+    margin-top: 12px;
+    }
